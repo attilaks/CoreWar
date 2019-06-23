@@ -17,7 +17,7 @@ Rhône 1982 (that is one delicious French wine!), etc...
 • The game ends when all the processes are dead. The winner is the last player
 reported to be “alive”.
 
-##Breakdown of the project’s objectives
+## Breakdown of the project’s objectives
 
 This project can be broken down into three distinctive parts:
 
